@@ -1,5 +1,7 @@
 # 大家好，我是皮卡丘 ⚡
+
 ![皮卡丘](https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png)
+
 我的身份是 **小智的搭档宝可梦**。以下是我的自我介绍：
 
 ---
