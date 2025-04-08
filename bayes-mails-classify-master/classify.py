@@ -22,7 +22,7 @@ def get_words(filename):
 all_words = []
 def get_top_words(top_num):
     """遍历邮件建立词库后返回出现次数最多的词"""
-    filename_list = [r'F:\coding\2025-SpringClass\NLP\邮件_files/{}.txt'.format(i) for i in range(151)]
+    filename_list = [r'邮件_files/{}.txt'.format(i) for i in range(151)]
     # 遍历邮件建立词库
     for filename in filename_list:
         all_words.append(get_words(filename))

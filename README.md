@@ -47,6 +47,8 @@
 ### 我最喜欢的编程语言是 **Python**
 ```python
 import random
+import warnings
+warnings.filterwarnings('ignore', category=FutureWarning)
 
 def pikachu_attack():
     attacks = ["十万伏特", "电光一闪", "铁尾"]
