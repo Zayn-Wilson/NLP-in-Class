@@ -58,3 +58,6 @@ print(f"皮卡丘使用了 {pikachu_attack()}！")
 ```
 ## 我最喜欢的 AI 方向是 Robotics & AI
 我对机器人和人工智能的结合非常感兴趣，尤其是如何将电气技能应用于智能机器人中！
+
+环境截图
+![img.png](img.png)
